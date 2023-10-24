@@ -9,10 +9,6 @@
   </a>
 </div>
 
-<div id="socials" align="center">
-    <a href="https://t.me/Olga_KZN">Telegram: @Olga_KZN</a>
-</div>
-
 <div id="email" align="center">
     <a href="mailto:olgushe4ka@gmail.com">
         <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
